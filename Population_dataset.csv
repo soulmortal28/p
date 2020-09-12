@@ -1,5 +1,4 @@
-#,Country (or dependency),Population,Yearly,Net,Density,Land Area,Migrants,Fert.,Med.,Urban,World
-,,-2020,Change,Change,(P/Km²),(Km²),(net),Rate,Age,Pop %,Share
+#,Country (or dependency),Population,Yearly Change,Net Change,Density (P/Km²),Land Area (Km²),Migrants,Fert. Rate,Med. Age,Urban Pop %,World Share
 1,China,"1,43,93,23,776",0.39%,"55,40,090",153,"93,88,211","-3,48,399",1.7,38,61%,18.47%
 2,India,"1,38,00,04,385",0.99%,"1,35,86,631",464,"29,73,190","-5,32,687",2.2,28,35%,17.70%
 3,United States,"33,10,02,651",0.59%,"19,37,734",36,"91,47,420","9,54,806",1.8,38,83%,4.25%
